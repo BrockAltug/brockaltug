@@ -26,18 +26,6 @@
   <a href="mailto:brock.altug99@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/yourchannelname" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X"/>
-</a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
