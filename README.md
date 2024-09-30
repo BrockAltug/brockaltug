@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brock Altug</h1>
 <h2 align="center">A Passionate Full Stack Web Developer from Washington</h2>
-<h2 align="center">🚀 Open for new job opportunities with no experience required! 🚀</h3>
+<h2 align="center">🚀 Open for new job opportunities, no experience required! 🚀</h2>
 <h3 align="center">I’m currently studying the Berkeley Fullstack Computer Science Course</h3>
-<h3 align="center">💬 Ask me about anything</h3>
+<h3 align="center">💬 Ask me anything!</h3>
 
-<h3 align="center">My Portfolio</h3>
+<h3 align="center">🌐 My Portfolio</h3>
 <p align="center">
   <a href="https://brockaltug.github.io/my-portfolio/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
@@ -12,16 +12,12 @@
 </p>
 
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=brockaltug&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="brockaltug" />
-</h3>
-
-<h3 align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=brockaltug&theme=dracula&margin-w=15&margin-h=15" alt="brockaltug" />
+    <img src="https://github-profile-trophy.vercel.app/?username=brockaltug&theme=radical&margin-w=15&margin-h=15" alt="brockaltug trophies" />
   </a>
 </h3>
 
-<h3 align="center">How to Reach Me</h3>
+<h3 align="center">📫 How to Reach Me</h3>
 <p align="center">
   <a href="mailto:brock.altug99@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
@@ -46,7 +42,7 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-</a>
+  </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
   </a>
@@ -69,9 +65,6 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
@@ -90,8 +83,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" />
-  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution grid snake animation" />
 </div>
 
 <!--
