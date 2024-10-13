@@ -70,7 +70,7 @@
 </p>
 
 <h4 align="center">Testing and Tools</h4>
-<p align="left">
+<p align="center">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" />
   </a>
