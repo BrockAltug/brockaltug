@@ -69,6 +69,7 @@
   </a>
 </p>
 
+<h4 align="center">Testing and Tools</h4>
 <p align="left">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" />
@@ -84,8 +85,6 @@
   </a>
 </p>
 
-
-<h4 align="center">Testing and Tools</h4>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=radical" alt="Brock's GitHub stats" width="400" style="margin: 10px;" />
