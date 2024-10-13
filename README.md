@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Brock Altug</h1>
-<h2 align="center">A Passionate Full Stack Web Developer from Washington</h2>
-<h2 align="center">Open for new job opportunities, no experience required!</h2>
+<h2 align="center">Full Stack Web Developer and Automation Tester</h2>
 <h3 align="center">I’m currently studying the Berkeley Fullstack Computer Science Course</h3>
 <h3 align="center">Ask me anything!</h3>
 
