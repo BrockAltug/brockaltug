@@ -74,7 +74,7 @@
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="JUnit" />
   </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+  <a href="https://testng.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="TestNG" />
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
