@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Skills</h3>
 
 <h4 align="center">Frontend</h4>
 <p align="center">
@@ -67,11 +67,25 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" />
   </a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="JUnit" />
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
 </p>
 
+
+<h4 align="center">Testing and Tools</h4>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=radical" alt="Brock's GitHub stats" width="400" style="margin: 10px;" />
