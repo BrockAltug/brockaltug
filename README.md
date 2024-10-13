@@ -64,9 +64,6 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  </a>
 </p>
 
 <h4 align="center">Testing and Tools</h4>
@@ -75,10 +72,10 @@
     <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" />
   </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=junit" alt="JUnit" />
+    <img src="https://skillicons.dev/icons?i=java" alt="JUnit" />
   </a>
   <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=testng" alt="TestNG" />
+    <img src="https://skillicons.dev/icons?i=java" alt="TestNG" />
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
