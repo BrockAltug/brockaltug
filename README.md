@@ -31,21 +31,25 @@ I’m a passionate full-stack web developer and automation tester currently stud
 
 Here are a few highlights from my recent work:
 
-1. **🎰 [Slot Machine Game](https://brockaltug.github.io/slot-machine/):**  
-   An interactive slot machine game with responsive design and exciting animations.  
-   **Technologies:** HTML, CSS, JavaScript
+1. **📈 [SEO Roadmap](https://brockaltug.github.io/seo-roadmap/):**  
+   A guide for businesses and website owners to develop an effective and tailored SEO strategy.  
+   **Technologies:** HTML, CSS, SEO, Content Strategy, Google Analytics
 
-2. **🏢 [Company Landing Page Template](https://brockaltug.github.io/company-landing-page/):**  
-   A sleek, responsive landing page for modern businesses.  
-   **Technologies:** HTML, CSS, Tailwind CSS
-
-3. **🌐 [Semantic Webpage Template](https://brockaltug.github.io/semantic-webpage-template/):**  
+2. **🌐 [Semantic Webpage Template](https://brockaltug.github.io/semantic-webpage-template/):**  
    Clean, accessible webpage template following web standards.  
    **Technologies:** HTML, CSS, JavaScript, SEO
 
-5. **⚽ [Soccer Match Tracker](https://brockaltug.github.io/soccer-predictions/):**  
-   Real-time predictions for soccer matches using head-to-head results.
+3. **🏢 [Company Landing Page Template](https://brockaltug.github.io/company-landing-page/):**  
+   A sleek, responsive landing page for modern businesses.  
+   **Technologies:** HTML, CSS, Tailwind CSS
+
+4. **⚽ [Soccer Match Tracker](https://brockaltug.github.io/soccer-predictions/):**  
+   Real-time predictions for soccer matches using head-to-head results.  
    **Technologies:** JavaScript, HTML5, CSS3, API Integration, Local Storage
+
+5. **🎰 [Slot Machine Game](https://brockaltug.github.io/slot-machine/):**  
+   An interactive slot machine game with responsive design and exciting animations.  
+   **Technologies:** HTML, CSS, JavaScript
 
 ---
 
