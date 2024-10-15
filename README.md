@@ -33,31 +33,32 @@ Here are a few highlights from my recent work:
 
 1. **📈 [SEO Roadmap](https://brockaltug.github.io/seo-roadmap/):**  
    A guide for businesses and website owners to develop an effective and tailored SEO strategy.  
-   **`Technologies:`** HTML, CSS, SEO, Content Strategy, Google Analytics
+   `Technologies: HTML, CSS, SEO, Content Strategy, Google Analytics`
 
 2. **🌐 [Semantic Webpage Template](https://brockaltug.github.io/semantic-webpage-template/):**  
    Clean, accessible webpage template following web standards.  
-   **`Technologies:`** HTML, CSS, JavaScript, SEO
+   `Technologies: HTML, CSS, JavaScript, SEO`
 
 3. **🏢 [Company Landing Page Template](https://brockaltug.github.io/company-landing-page/):**  
    A sleek, responsive landing page for modern businesses.  
-   **`Technologies:`** HTML, CSS, Tailwind CSS
+   `Technologies: HTML, CSS, Tailwind CSS`
 
 4. **⚽ [Soccer Match Tracker](https://brockaltug.github.io/soccer-predictions/):**  
    Real-time predictions for soccer matches using head-to-head results.  
-   **`Technologies:`** JavaScript, HTML5, CSS3, API Integration, Local Storage
+  `Technologies: JavaScript, HTML5, CSS3, API Integration, Local Storage`
 
 5. **🎰 [Slot Machine Game](https://brockaltug.github.io/slot-machine/):**  
    An interactive slot machine game with responsive design and exciting animations.  
-   **`Technologies:`** HTML, CSS, JavaScript
+   `Technologies: HTML, CSS, JavaScript`
 
 6. **💭 [Random Quote Generator](https://brockaltug.github.io/random-quote-generator/):**  
    An elegant random quote generator that fetches quotes from various categories and displays them with background animations.  
-   **`Technologies:`** HTML, CSS, JavaScript, Tailwind CSS, API Ninjas Quotes API
+   `Technologies: HTML, CSS, JavaScript, Tailwind CSS, API Ninjas Quotes API`
 
 7. **🌦️ [Weather Dashboard](https://brockaltug.github.io/weather-dashboard/):**  
    A sleek weather dashboard that allows users to search for city weather conditions and view a 5-day forecast.
-   **`Technologies:`** HTML, CSS, JavaScript, OpenWeather API, Local Storage
+   
+   `Technologies: HTML, CSS, JavaScript, OpenWeather API, Local Storage`
 
 ---
 
