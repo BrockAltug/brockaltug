@@ -51,7 +51,7 @@ Here are a few highlights from my recent work:
    An interactive slot machine game with responsive design and exciting animations.  
    **Technologies:** HTML, CSS, JavaScript
 
-6. **📜 [Random Quote Generator](https://brockaltug.github.io/random-quote-generator/):**  
+6. **💭 [Random Quote Generator](https://brockaltug.github.io/random-quote-generator/):**  
    An elegant random quote generator that fetches quotes from various categories and displays them with beautiful background animations.  
    **Technologies:** HTML, CSS, JavaScript, Tailwind CSS, API Ninjas Quotes API
 
