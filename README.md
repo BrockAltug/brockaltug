@@ -56,7 +56,7 @@ Here are a few highlights from my recent work:
    `Technologies: HTML, CSS, JavaScript, Tailwind CSS, API Ninjas Quotes API`
 
 7. **🌦️ [Weather Dashboard](https://brockaltug.github.io/weather-dashboard/):**  
-   A sleek weather dashboard that allows users to search for city weather conditions and view a 5-day forecast.
+   A sleek weather dashboard that allowers users to search for a cities weather conditions and view a 5 day forecast.  
    `Technologies: HTML, CSS, JavaScript, OpenWeather API, Local Storage`
 
 ---
