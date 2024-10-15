@@ -43,9 +43,9 @@ Here are a few highlights from my recent work:
    Clean, accessible webpage template following web standards.  
    **Technologies:** HTML, CSS, JavaScript, SEO
 
-4. **📈 [SEO Roadmap](https://brockaltug.github.io/seo-roadmap/):**  
-   A guide for businesses and website owners to develop an effective and tailored SEO strategy.  
-   **Technologies:** HTML, CSS, SEO, Content Strategy, Google Analytics
+### 5. **⚽ [Soccer Match Tracker](https://brockaltug.github.io/soccer-predictions/):**  
+   Real-time predictions for soccer matches using head-to-head results.
+   **Technologies:** JavaScript, HTML5, CSS3, API Integration, Local Storage
 
 ---
 
