@@ -57,7 +57,6 @@ Here are a few highlights from my recent work:
 
 7. **🌦️ [Weather Dashboard](https://brockaltug.github.io/weather-dashboard/):**  
    A sleek weather dashboard that allows users to search for city weather conditions and view a 5-day forecast.
-   
    `Technologies: HTML, CSS, JavaScript, OpenWeather API, Local Storage`
 
 ---
