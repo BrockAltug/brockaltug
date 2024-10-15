@@ -49,8 +49,6 @@ Here are a few highlights from my recent work:
 
 ---
 
----
-
 ![Brock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=radical)
 ![Brock's GitHub Streak](https://streak-stats.demolab.com?user=brockaltug&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=radical)
