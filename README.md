@@ -52,11 +52,11 @@ Here are a few highlights from my recent work:
    **`Technologies:`** HTML, CSS, JavaScript
 
 6. **💭 [Random Quote Generator](https://brockaltug.github.io/random-quote-generator/):**  
-   An elegant random quote generator that fetches quotes from various categories and displays them with beautiful background animations.  
+   An elegant random quote generator that fetches quotes from various categories and displays them with background animations.  
    **`Technologies:`** HTML, CSS, JavaScript, Tailwind CSS, API Ninjas Quotes API
 
 7. **🌦️ [Weather Dashboard](https://brockaltug.github.io/weather-dashboard/):**  
-   A sleek weather dashboard that allows users to search for city weather conditions and view a 5-day forecast. The app uses local storage to keep a search history and updates dynamically with each new search.  
+   A sleek weather dashboard that allows users to search for city weather conditions and view a 5-day forecast.
    **`Technologies:`** HTML, CSS, JavaScript, OpenWeather API, Local Storage
 
 ---
