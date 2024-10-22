@@ -21,6 +21,8 @@ I’m a passionate full-stack web developer and automation tester currently stud
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![SQL](https://skillicons.dev/icons?i=sqlite)](https://www.sql.org/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
