@@ -29,9 +29,9 @@ I’m a passionate full-stack web developer and automation tester currently stud
 
 ---
 
-![Brock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=cobalt)
-![Brock's GitHub Streak](https://streak-stats.demolab.com?user=brockaltug&theme=cobalt)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=cobalt)
+![Brock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=merko)
+![Brock's GitHub Streak](https://streak-stats.demolab.com?user=brockaltug&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=merko)
 <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution grid snake animation" />
 <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution grid snake animation" />
 [![Trophies](https://github-profile-trophy.vercel.app/?username=brockaltug&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
