@@ -1,4 +1,4 @@
-# Hi, I'm Brock Altug
+# Brock Altug
 
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
