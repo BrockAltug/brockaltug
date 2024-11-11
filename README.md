@@ -31,7 +31,21 @@ Additionally, I am well-versed in NoSQL databases (MongoDB Atlas, Firebase), ser
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
+[![Mocha](https://skillicons.dev/icons?i=mocha)](https://mochajs.org/)
+[![Cypress](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+[![Webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
+[![Babel](https://skillicons.dev/icons?i=babel)](https://babeljs.io/)
+[![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![ESLint](https://skillicons.dev/icons?i=eslint)](https://eslint.org/)
+[![Prettier](https://skillicons.dev/icons?i=prettier)](https://prettier.io/)
+[![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 ---
 
