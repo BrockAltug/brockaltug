@@ -2,6 +2,8 @@
 
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)  
+
 ---
 
 ### Skills & Tools
