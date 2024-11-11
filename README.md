@@ -3,9 +3,14 @@
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
 
-I’m a passionate full-stack web developer and automation tester currently studying the Berkeley Fullstack Computer Science Course. Experienced in both front-end and back-end development, I specialize in building robust, user-friendly applications and leveraging automation frameworks to ensure quality and efficiency.
+I’m a passionate full-stack web developer and automation tester currently honing my skills through the prestigious Berkeley Fullstack Computer Science Course. With a strong foundation in both front-end and back-end development, I specialize in creating robust, scalable, and user-friendly applications that deliver exceptional user experiences. My expertise spans the full development lifecycle, from conceptualization and design to implementation and deployment, ensuring every project meets high standards of functionality and performance.
 
-Here’s an expanded Skillsets section in a comprehensive README.md format, incorporating all your skills and the content from the outlined units:
+In addition to my development skills, I have extensive experience with automation frameworks, allowing me to streamline testing processes and ensure the quality and reliability of the applications I build. I am adept at integrating automated testing solutions into the software development lifecycle, ensuring efficiency, reducing manual effort, and minimizing potential defects.
+
+Whether developing intuitive user interfaces, designing database schemas, or optimizing workflows with automation, I bring a detail-oriented approach and a commitment to excellence in every aspect of my work. My passion for continuous learning and exploring emerging technologies drives me to stay at the forefront of advancements in web development, automation, and software engineering.
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)
+
 
 🚀 Skillsets
 
@@ -74,8 +79,6 @@ I thrive in collaborative, cross-functional teams where I can contribute to driv
 As a proactive learner and contributor, I actively engage in open-source projects, sharing my knowledge and learning from the global developer community. I am committed to continuously refining my skills through hands-on experience, staying updated with the latest industry trends, and experimenting with innovative tools and frameworks. This approach enables me to design and develop high-quality, scalable, and user-centric solutions that address real-world challenges while exceeding expectations.
 
 My ultimate goal is to leverage cutting-edge technologies to create meaningful applications that not only meet business objectives but also provide an intuitive and seamless user experience.
-
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)
 
 ---
 
