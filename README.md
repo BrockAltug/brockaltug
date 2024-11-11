@@ -65,8 +65,8 @@ Additionally, I am well-versed in NoSQL databases (MongoDB Atlas, Firebase), ser
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)](https://www.adobe.com/products/illustrator.html)
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=flat)](https://www.adobe.com/products/aftereffects.html)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=flat)](https://www.adobe.com/products/premiere.html)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat)](https://www.blender.org/)
 [![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF7043?logo=substancepainter&logoColor=white&style=flat)](https://www.adobe.com/products/substance3d-painter.html)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat)](https://www.blender.org/)
 [![FL Studio](https://img.shields.io/badge/FL%20Studio-F48120?logo=flstudio&logoColor=white&style=flat)](https://www.image-line.com/)
 
 
