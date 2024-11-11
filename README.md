@@ -40,11 +40,11 @@ I’m a passionate full-stack web developer and automation tester currently stud
 
 ## How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brockaltug)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@brockaltug)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)
+[![](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)
+[![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brockaltug)
+[![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@brockaltug)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
+[![](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)
 [![Soft Edge Development](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)
 
 ---
