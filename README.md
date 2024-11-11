@@ -7,7 +7,7 @@ I’m a passionate full-stack web developer and automation tester currently honi
 
 In addition to my development skills, I have extensive experience with automation frameworks, allowing me to streamline testing processes and ensure the quality and reliability of the applications I build. I am adept at integrating automated testing solutions into the software development lifecycle, ensuring efficiency, reducing manual effort, and minimizing potential defects.
 
-Whether developing intuitive user interfaces, designing database schemas, or optimizing workflows with automation, I bring a detail-oriented approach and a commitment to excellence in every aspect of my work. My passion for continuous learning and exploring emerging technologies drives me to stay at the forefront of advancements in web development, automation, software engineering, and artificial intelligence (AI).
+Whether developing intuitive user interfaces, designing database schemas, or optimizing workflows with automation, I bring a detail-oriented approach and a commitment to excellence in every aspect of my work. My passion for continuous learning and exploring emerging technologies drives me to stay at the forefront of advancements in web development, automation, software engineering, and artificial intelligence.
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)
 
@@ -74,7 +74,7 @@ Deployment & CI/CD
 	•	Skilled in managing environment variables, ensuring application security and scalability in cloud environments.
 
 
-I thrive in collaborative, cross-functional teams where I can contribute to driving projects forward with creativity, technical expertise, and a focus on delivering impactful results. My passion lies in exploring and adopting emerging technologies in web development, artificial intelligence (AI), and automation to stay ahead in the ever-evolving tech landscape.
+I thrive in collaborative, cross-functional teams where I can contribute to driving projects forward with creativity, technical expertise, and a focus on delivering impactful results. My passion lies in exploring and adopting emerging technologies in web development, artificial intelligence, and automation to stay ahead in the ever-evolving tech landscape.
 
 As a proactive learner and contributor, I actively engage in open-source projects, sharing my knowledge and learning from the global developer community. I am committed to continuously refining my skills through hands-on experience, staying updated with the latest industry trends, and experimenting with innovative tools and frameworks. This approach enables me to design and develop high-quality, scalable, and user-centric solutions that address real-world challenges while exceeding expectations.
 
