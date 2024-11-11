@@ -5,27 +5,75 @@
 
 I’m a passionate full-stack web developer and automation tester currently studying the Berkeley Fullstack Computer Science Course. Experienced in both front-end and back-end development, I specialize in building robust, user-friendly applications and leveraging automation frameworks to ensure quality and efficiency.
 
-Languages
+Here’s an expanded Skillsets section in a comprehensive README.md format, incorporating all your skills and the content from the outlined units:
 
-HTML, CSS, JavaScript, TypeScript, Java, SQL, JSON, PostgreSQL, MongoDB.
+🚀 Skillsets
 
-Tools
+Full-Stack Development
 
-Node.js, Express.js, React, Sequelize, Handlebars.js, Git, Jest, Selenium WebDriver, Docker, Jenkins, APIs, npm, Insomnia, PostgreSQL Shell, ESLint, Prettier, Render (deployment tool), Heroku, GitHub Pages, Day.js, Bootstrap, jQuery UI, Maven, Jira, Webpack, Mocha, Chai.
+	•	Proficient in building dynamic, secure, and scalable applications using the MERN stack (MongoDB, Express.js, React, Node.js).
+	•	Expertise in creating and consuming RESTful APIs, including advanced routing and middleware.
+	•	Hands-on experience with MVC architecture, employing efficient separation of concerns for scalable application design.
+	•	Skilled in server-side development with Node.js, modularization, and environment configuration.
 
-Skillsets
+Front-End Development
 
-	•	Full-stack development with the MERN stack (MongoDB, Express.js, React, Node.js).
-	•	DOM manipulation, RESTful API creation, and consumption.
-	•	MVC architecture and custom middleware development for Express.js.
-	•	Database schema creation, management, and migrations (PostgreSQL, Sequelize).
-	•	User authentication and authorization with bcrypt and JWT.
-	•	Automation testing frameworks: Selenium, Jest, Mocha, and Chai.
-	•	Responsive and accessible UI/UX design using React and CSS frameworks.
-	•	Advanced Git workflows and CI/CD pipeline integration with Jenkins and Docker.
-	•	Agile methodologies (Scrum, Kanban) and collaborative project management (Jira, GitHub).
+	•	Proficient in HTML and CSS, including advanced techniques like CSS Grid, Flexbox, and media queries for responsive web design.
+	•	Skilled in building interactive and responsive user interfaces using React and CSS frameworks like Bootstrap.
+	•	Experience with DOM manipulation and dynamic content rendering using JavaScript and jQuery.
+	•	Developed accessible and polished UIs, leveraging custom themes and prebuilt components with Bootstrap and jQuery UI.
 
-I thrive in collaborative, cross-functional teams and have a strong passion for exploring emerging technologies in web development, AI, and automation. I actively contribute to open-source projects and continuously refine my skills to build innovative, high-quality solutions.
+Back-End Development
+
+	•	Deep understanding of Express.js for building RESTful APIs, handling routes, and middleware integration.
+	•	Expertise in database schema creation, management, and migrations using PostgreSQL and Sequelize ORM.
+	•	Proficient in implementing user authentication and authorization with bcrypt, JWT, and session management.
+	•	Hands-on experience integrating third-party APIs, handling asynchronous operations with fetch(), and error management.
+
+Object-Oriented Programming (OOP)
+
+	•	Implemented constructor functions, prototypal inheritance, and class-based programming for scalable, reusable code.
+	•	Strong grasp of polymorphism, method overriding, and TDD workflows using automated testing.
+	•	Built applications using test-driven development (TDD) to define clear requirements and ensure high-quality code.
+
+Automation Testing
+
+	•	Proficient in using testing frameworks such as Jest, Mocha, Chai, and Selenium WebDriver.
+	•	Skilled in unit testing, integration testing, and designing automated test cases to ensure robust software functionality.
+	•	Hands-on experience with CI/CD pipeline integration, ensuring automated testing during the development lifecycle.
+
+Database Management
+
+	•	Expertise in relational databases such as PostgreSQL and NoSQL databases like MongoDB.
+	•	Designed efficient relational schemas with primary and foreign keys, and implemented many-to-many relationships.
+	•	Proficient in CRUD operations, complex SQL queries, and using Sequelize for ORM-based operations.
+	•	Leveraged data validation tools to enforce integrity and database seeding for testing and development environments.
+
+Version Control & Collaboration
+
+	•	Advanced knowledge of Git workflows, including branching, merging, and resolving merge conflicts.
+	•	Collaborated on large-scale projects using tools like GitHub, Jira, and GitHub Projects.
+	•	Implemented agile methodologies like Scrum and Kanban, ensuring efficient sprint management and delivery.
+
+Responsive UI/UX Design
+
+	•	Developed accessible, mobile-first applications with polished UI using CSS Grid, Flexbox, and modern CSS properties.
+	•	Built dynamic, interactive interfaces with React, leveraging reusable components and hooks.
+	•	Utilized custom helper functions and templating engines like Handlebars.js for server-side rendering.
+	•	Strong focus on web accessibility (a11y) and cross-browser compatibility.
+
+Deployment & CI/CD
+
+	•	Proficient in deploying applications to platforms like Render and Heroku.
+	•	Hands-on experience with containerization using Docker and managing deployment pipelines with Jenkins.
+	•	Skilled in managing environment variables, ensuring application security and scalability in cloud environments.
+
+
+I thrive in collaborative, cross-functional teams where I can contribute to driving projects forward with creativity, technical expertise, and a focus on delivering impactful results. My passion lies in exploring and adopting emerging technologies in web development, artificial intelligence (AI), and automation to stay ahead in the ever-evolving tech landscape.
+
+As a proactive learner and contributor, I actively engage in open-source projects, sharing my knowledge and learning from the global developer community. I am committed to continuously refining my skills through hands-on experience, staying updated with the latest industry trends, and experimenting with innovative tools and frameworks. This approach enables me to design and develop high-quality, scalable, and user-centric solutions that address real-world challenges while exceeding expectations.
+
+My ultimate goal is to leverage cutting-edge technologies to create meaningful applications that not only meet business objectives but also provide an intuitive and seamless user experience.
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)
 
