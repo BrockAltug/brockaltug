@@ -2,7 +2,30 @@
 
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
-I’m a passionate full-stack web developer and automation tester currently studying the Berkeley Fullstack Computer Science Course. Experienced in both front-end and back-end development, testing, and automation frameworks. Proficient in HTML, CSS, JavaScript, Java, Selenium, TestNG, and modern web frameworks like React and Node.js. I have a solid understanding of Agile methodologies and thrive in collaborative, cross-functional teams. My expertise spans developing powerful applications, automation testing, and contributing to open-source projects. I’m always eager to explore the latest technologies in web development, AI, and automation.
+
+I’m a passionate full-stack web developer and automation tester currently studying the Berkeley Fullstack Computer Science Course. Experienced in both front-end and back-end development, I specialize in building robust, user-friendly applications and leveraging automation frameworks to ensure quality and efficiency.
+
+Languages
+
+HTML, CSS, JavaScript, TypeScript, Java, SQL, JSON, PostgreSQL, MongoDB.
+
+Tools
+
+Node.js, Express.js, React, Sequelize, Handlebars.js, Git, Jest, Selenium WebDriver, Docker, Jenkins, APIs, npm, Insomnia, PostgreSQL Shell, ESLint, Prettier, Render (deployment tool), Heroku, GitHub Pages, Day.js, Bootstrap, jQuery UI, Maven, Jira, Webpack, Mocha, Chai.
+
+Skillsets
+
+	•	Full-stack development with the MERN stack (MongoDB, Express.js, React, Node.js).
+	•	DOM manipulation, RESTful API creation, and consumption.
+	•	MVC architecture and custom middleware development for Express.js.
+	•	Database schema creation, management, and migrations (PostgreSQL, Sequelize).
+	•	User authentication and authorization with bcrypt and JWT.
+	•	Automation testing frameworks: Selenium, Jest, Mocha, and Chai.
+	•	Responsive and accessible UI/UX design using React and CSS frameworks.
+	•	Advanced Git workflows and CI/CD pipeline integration with Jenkins and Docker.
+	•	Agile methodologies (Scrum, Kanban) and collaborative project management (Jira, GitHub).
+
+I thrive in collaborative, cross-functional teams and have a strong passion for exploring emerging technologies in web development, AI, and automation. I actively contribute to open-source projects and continuously refine my skills to build innovative, high-quality solutions.
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)
 
