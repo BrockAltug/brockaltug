@@ -84,13 +84,14 @@ Beyond development and testing, I bring a strong background in design and multim
 
 ## How to Reach Me
 
-[![](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)
-[![](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/brockaltug)
-[![](https://img.shields.io/badge/-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@brockaltug)
-[![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
-[![](https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)
-[![Soft Edge Development](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)  
+[![](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)  
+[![](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/brockaltug)  
+[![](https://img.shields.io/badge/-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@brockaltug)  
+[![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)  
+[![](https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)  
+[![](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brockaltug)  
+[![Soft Edge Development](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)  
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)
 
 ---
 
