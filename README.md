@@ -45,7 +45,7 @@ I’m a passionate full-stack web developer and automation tester currently stud
 [![](https://img.shields.io/badge/-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@brockaltug)
 [![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
 [![](https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)
-[![](https://img.shields.io/badge/-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)
+[![Soft Edge Development](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)
 
 ---
 
