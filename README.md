@@ -7,7 +7,7 @@ I’m a passionate full-stack web developer and automation tester currently honi
 
 In addition to my development skills, I have extensive experience with automation frameworks, allowing me to streamline testing processes and ensure the quality and reliability of the applications I build. I am adept at integrating automated testing solutions into the software development lifecycle, ensuring efficiency, reducing manual effort, and minimizing potential defects.
 
-Whether developing intuitive user interfaces, designing database schemas, or optimizing workflows with automation, I bring a detail-oriented approach and a commitment to excellence in every aspect of my work. My passion for continuous learning and exploring emerging technologies drives me to stay at the forefront of advancements in web development, automation, software engineering, and artificial intelligence.
+Whether developing intuitive user interfaces, designing database schemas, or optimizing workflows with automation, I bring a detail-oriented approach and a commitment to excellence in every aspect of my work. My passion for continuous learning and exploring emerging technologies drives me to stay at the forefront of advancements in web development, automation, software engineering, and artificial intelligence (AI).
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)
 
