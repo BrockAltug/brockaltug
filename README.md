@@ -13,8 +13,6 @@ Additionally, I am well-versed in NoSQL databases (MongoDB Atlas, Firebase), ser
 
 Beyond development and testing, I bring a strong background in design and multimedia editing. I am proficient with industry-leading creative tools, including Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Lightroom, and Substance Painter. These skills allow me to craft visually compelling user interfaces, dynamic animations, and polished multimedia content that enhance overall user engagement. My expertise in Blender enables me to create 3D assets and animations, while my experience with FL Studio adds audio editing and production capabilities, enriching the storytelling and branding aspects of my projects.
 
-This unique combination of technical and creative skills enables me to bridge the gap between development and design, delivering comprehensive solutions that are both functional and visually captivating.
-
 ---
 
 
