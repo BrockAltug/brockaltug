@@ -3,7 +3,7 @@
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
 
-I’m a passionate full-stack web developer and automation tester currently honing my skills through the prestigious Berkeley Fullstack Computer Science Course. With a strong foundation in both front-end and back-end development, I specialize in creating robust, scalable, and user-friendly applications that deliver exceptional user experiences. My expertise spans the full development lifecycle, from conceptualization and design to implementation and deployment, ensuring every project meets high standards of functionality and performance.
+I’m a passionate full-stack web developer and automation tester currently honing my skills through the Berkeley Fullstack Computer Science Course. With a strong foundation in both front-end and back-end development, I specialize in creating robust, scalable, and user-friendly applications that deliver exceptional user experiences. My expertise spans the full development lifecycle, from conceptualization and design to implementation and deployment, ensuring every project meets high standards of functionality and performance.
 
 In addition to my development skills, I have extensive experience with automation frameworks, allowing me to streamline testing processes and ensure the quality and reliability of the applications I build. I am adept at integrating automated testing solutions into the software development lifecycle, ensuring efficiency, reducing manual effort, and minimizing potential defects.
 
