@@ -14,37 +14,57 @@ Additionally, I am well-versed in NoSQL databases (MongoDB Atlas, Firebase), ser
 
 ---
 
-### Skills & Tools
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![SQL](https://skillicons.dev/icons?i=sqlite)](https://www.sql.org/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
-[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
-[![Cypress](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
-[![Webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
-[![Babel](https://skillicons.dev/icons?i=babel)](https://babeljs.io/)
-[![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=flat)](https://eslint.org/)  
+# Skills & Tools
+
+### Programming Languages
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)](https://www.java.com/)
+[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat)](https://www.sql.org/)
+
+### Front-End Development
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat)](https://redux.js.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)](https://tailwindcss.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)](https://jquery.com/)
+
+### Back-End Development
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat)](https://graphql.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
+
+### Testing & QA
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat)](https://www.selenium.dev/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat)](https://jestjs.io/)
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=flat)](https://mochajs.org/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat)](https://www.cypress.io/)
+
+### Development Tools
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)](https://kubernetes.io/)
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat)](https://webpack.js.org/)
+[![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=flat)](https://babeljs.io/)
+
+### Cloud & Deployment
+[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat)](https://www.heroku.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)](https://azure.microsoft.com/)
+
+### Other Tools
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat)](https://www.npmjs.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)](https://www.postman.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=flat)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=flat)](https://prettier.io/)
-[![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+
 
 ---
 
