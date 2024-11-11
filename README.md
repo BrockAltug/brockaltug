@@ -120,6 +120,7 @@ My ultimate goal is to leverage cutting-edge technologies to create meaningful a
 [![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
 [![](https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)
 [![Soft Edge Development](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)  
 
 ---
 
