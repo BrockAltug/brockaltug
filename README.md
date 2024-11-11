@@ -31,7 +31,6 @@ Additionally, I am well-versed in NoSQL databases (MongoDB Atlas, Firebase), ser
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
-[![Mocha](https://skillicons.dev/icons?i=mocha)](https://mochajs.org/)
 [![Cypress](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
