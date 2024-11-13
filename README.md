@@ -5,14 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)  
 
 
-I am a highly skilled Full Stack Developer and Automation Tester with comprehensive expertise in both front-end and back-end development, as well as modern quality assurance methodologies. Proficient in programming languages like HTML, CSS, JavaScript, TypeScript, Java, SQL, JSON, and Python, I excel at building dynamic, scalable, and secure web applications that prioritize exceptional user experiences. My front-end capabilities include React.js, Redux, Handlebars.js, Bootstrap, Material-UI, Tailwind CSS, jQuery, and jQuery UI, while on the back end, I specialize in Node.js, Express.js, Sequelize ORM, PostgreSQL, and MongoDB, with strong skills in RESTful API development, GraphQL, middleware integration, WebSocket implementation, CRUD operations, and MVC architecture.
-
-In the realm of automation testing, I have extensive experience with tools like Selenium WebDriver, Cypress, Playwright, Puppeteer, TestNG, JUnit, Cucumber BDD, Mocha, and Chai, focusing on test-driven development (TDD), behavior-driven development (BDD), unit and integration testing, and defect tracking. My proficiency extends to modern development and deployment tools, including Git, GitHub, Docker, Kubernetes, Jenkins, Maven, Webpack, Babel, npm, ESLint, Prettier, Insomnia, and pgAdmin, and I excel in delivering secure, scalable solutions through CI/CD pipelines, container orchestration, and cloud deployment on Heroku, AWS, Azure, and Render.
-
-Additionally, I am well-versed in NoSQL databases (MongoDB Atlas, Firebase), server-side rendering (Next.js), state management libraries (Redux, Context API), and authentication/authorization techniques (OAuth 2.0, JWT, Passport.js). With a solid understanding of Agile methodologies (Scrum, Kanban) and experience in database schema design, advanced SQL queries, responsive UI/UX design, asynchronous programming, cross-browser compatibility, and performance optimization, I am committed to delivering innovative, high-quality solutions that drive meaningful results.
-
-Beyond development and testing, I bring a strong background in design and multimedia editing. I am proficient with industry-leading creative tools, including Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Lightroom, and Substance Painter. These skills allow me to craft visually compelling user interfaces, dynamic animations, and polished multimedia content that enhance overall user engagement. My expertise in Blender enables me to create 3D assets and animations, while my experience with FL Studio adds audio editing and production capabilities, enriching the storytelling and branding aspects of my projects.
-
 ---
 
 
