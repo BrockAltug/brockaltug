@@ -52,7 +52,7 @@
 [![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?logo=junit5&logoColor=white&style=flat)](https://junit.org/)
 [![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=flat)](https://cucumber.io/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=flat)](https://maven.apache.org/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)]([https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira?campaign=18440774103&adgroup=136973856930&targetid=kwd-855725830&matchtype=e&network=g&device=c&device_model=&creative=639487383004&keyword=jira&placement=&target=&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gbraid=0AAAAAD_uzhAIYMS_h8Aw474AkgYSLw3cw&gclid=CjwKCAiA3Na5BhAZEiwAzrfagPdtZudNCEuTboHJErrV6KreoKt3CrBO5_yu8I06PVE4UBKaoCDouhoCbVQQAvD_BwE))
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)](https://is.gd/kNYRxv)
 [![TestNG](https://img.shields.io/badge/TestNG-FF6C37.svg?logo=testng&logoColor=white&style=flat)](https://testng.org/doc/)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)](https://webpack.js.org/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat)](https://www.npmjs.com/)
