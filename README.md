@@ -27,6 +27,7 @@
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)](https://jquery.com/)
 [![OAuth](https://img.shields.io/badge/OAuth-4285F4?logo=oauth&logoColor=white&style=flat)](https://oauth.net/)
 [![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)](https://jwt.io/)
+[![.env](https://img.shields.io/badge/.env-417D9A?logo=.env&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/Environment_variable)
 [![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white&style=flat)](https://restfulapi.net/)
 [![Handlebars.js](https://img.shields.io/badge/Handlebars.js-F0772B?logo=handlebarsdotjs&logoColor=white&style=flat)](https://handlebarsjs.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)](https://nextjs.org/)
