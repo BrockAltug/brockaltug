@@ -83,7 +83,7 @@
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)](https://is.gd/kNYRxv)
 [![TestNG](https://img.shields.io/badge/TestNG-FF6C37.svg?logo=testng&logoColor=white&style=flat)](https://testng.org/doc/)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)](https://webpack.js.org/)
-[![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat)](https://www.npmjs.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat)](https://www.npmjs.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)](https://www.postman.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=flat)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=flat)](https://prettier.io/)
