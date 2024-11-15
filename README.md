@@ -18,6 +18,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat)](https://www.sql.org/)
 [![JSON](https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white&style=flat)](https://www.json.org/json-en.html)
+[![MERN](https://img.shields.io/badge/MERN-3EAF7C?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/mern-stack)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat)](https://redux.js.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/)
