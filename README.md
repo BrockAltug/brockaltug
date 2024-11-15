@@ -29,7 +29,6 @@
 [![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)](https://jwt.io/)
 [![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white&style=flat)](https://restfulapi.net/)
 [![Handlebars.js](https://img.shields.io/badge/Handlebars.js-F0772B?logo=handlebarsdotjs&logoColor=white&style=flat)](https://handlebarsjs.com/)
-
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)](https://nextjs.org/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat)](https://redux-toolkit.js.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)](https://angular.io/)
@@ -54,7 +53,6 @@
 [![Agile](https://img.shields.io/badge/Agile-006400?logo=agile&logoColor=white&style=flat)](https://www.atlassian.com/agile)
 [![Kanban](https://img.shields.io/badge/Kanban-FF9933?logo=kanban&logoColor=white&style=flat)](https://kanbanize.com/)
 [![Scrum](https://img.shields.io/badge/Scrum-007ACC?logo=scrum&logoColor=white&style=flat)](https://www.scrum.org/)
-
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-052E20?logo=sequelize&logoColor=white&style=flat)](https://sequelize.org/)
