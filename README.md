@@ -42,6 +42,7 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)](https://azure.microsoft.com/)
 [![Render](https://img.shields.io/badge/Render-0078FF.svg?logo=render&logoColor=white&style=flat)](https://render.com/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)](https://insomnia.rest/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat)](https://www.selenium.dev/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat)](https://jestjs.io/)
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=flat)](https://mochajs.org/)
@@ -60,6 +61,7 @@
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=flat)](https://www.adobe.com/products/premiere.html)
 [![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF7043?logo=substancepainter&logoColor=white&style=flat)](https://www.adobe.com/products/substance3d-painter.html)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat)](https://www.blender.org/)
+[![Tiled](https://img.shields.io/badge/Tiled-1DACE8?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIGZpbGw9IiMxREFDRTgiIHJ4PSI0Ii8+PHBhdGggZD0iTTIwLjA1IDY5Ljg3VjMwLjE3TDMwLjM0IDIwLjQzSDY5LjY0TDc5LjkyIDMwLjE3Vjc1Ljk3SDQ5LjczTDQwLjI0IDg1LjY0SDIwLjA1TDIwLjA1IDY5Ljg3WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMjAuMDUgMzAuMTdWMjAuNDNMMzAuMzQgMjAuNDNWMzAuMTdIMjAuMDVaTTIwLjA1IDU5LjYwVjY5Ljg3TDMwLjM0IDU5LjYwSDEyMC4wNUwyMCA2Ljk4NyIvPjwvc3ZnPg==&logoColor=white&style=flat)](https://www.mapeditor.org/)
 [![FL Studio](https://img.shields.io/badge/FL%20Studio-F48120?logo=flstudio&logoColor=white&style=flat)](https://www.image-line.com/)
 
 
