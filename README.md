@@ -113,7 +113,7 @@
 
 [![](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)
 [![](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/brockaltug)
-[![](https://img.shields.io/badge/-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@brockaltug)
+[![](https://img.shields.io/badge/-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@softedgedev)
 [![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
 [![](https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)
 [![](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brockaltug)
