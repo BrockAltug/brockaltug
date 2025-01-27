@@ -35,6 +35,8 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)](https://angular.io/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat)](https://vuejs.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=white&style=flat)](https://www.apollographql.com/)
+[![Apollo Server](https://img.shields.io/badge/Apollo%20Server-311C87?logo=apollographql&logoColor=white&style=flat)](https://www.apollographql.com/docs/apollo-server/)
+[![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?logo=apollographql&logoColor=white&style=flat)](https://www.apollographql.com/docs/react/)
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=flat)](https://stripe.com/)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=flat)](https://www.paypal.com/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-3E9BF1?logo=githubactions&logoColor=white&style=flat)](https://docs.github.com/en/actions)
