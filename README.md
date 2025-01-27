@@ -2,8 +2,7 @@
 
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)]([https://brockaltug.github.io/my-portfolio/](https://fascinating-cat-07a405.netlify.app))  
-
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://fascinating-cat-07a405.netlify.app)
 
 ---
 
@@ -132,7 +131,7 @@
 [![](https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)
 [![](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brockaltug)
 [![Soft Edge Development](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://brockaltug.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://fascinating-cat-07a405.netlify.app)
 
 ---
 
