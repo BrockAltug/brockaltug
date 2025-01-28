@@ -127,7 +127,7 @@
 [![](https://img.shields.io/badge/-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@softedgedev)
 [![](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
 [![](https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)
-[![](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brock-altug)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brock-altug)
 [![Soft Edge Development](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://fascinating-cat-07a405.netlify.app)
 
