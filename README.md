@@ -2,7 +2,7 @@
 
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://fascinating-cat-07a405.netlify.app)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://www.softedgedevelopment.com/brock-altug)
 
 ---
 
@@ -128,8 +128,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/softedgedev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brock-altug)
-[![Website](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://softedgedevelopment.com)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://fascinating-cat-07a405.netlify.app)
+[![Website](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://www.softedgedevelopment.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://www.softedgedevelopment.com/brock-altug)
 
 ---
 
