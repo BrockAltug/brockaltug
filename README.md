@@ -1,6 +1,11 @@
-# Brock Altug
+<div align="center">
+
+# Brock Altug  
 
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
+
+</div>
+
 
 <p align="center">
   <a href="https://www.softedgedevelopment.com/brockaltug" target="_blank">
