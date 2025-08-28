@@ -133,9 +133,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 
----
-
-
 <div align="center">
 
 ## How to Reach Me  
