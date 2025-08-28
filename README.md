@@ -128,11 +128,13 @@
 
 ---
 
-<div align="center">
-![Brock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=merko)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=merko" alt="Brock's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=merko" alt="Top Languages" />
+</p>
+
 ---
+
 
 <div align="center">
 
@@ -175,5 +177,6 @@
 
 
 ---
-
+<div align="center">
 Feel free to connect with me if you have any questions or want to collaborate on exciting projects!
+</div>
