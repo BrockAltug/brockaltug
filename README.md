@@ -160,6 +160,9 @@
   <a href="https://www.softedgedevelopment.com">
     <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.softedgedevelopment.com/brockaltug">
     <img src="https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
