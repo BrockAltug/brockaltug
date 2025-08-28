@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.softedgedevelopment.com/brockaltug" target="_blank">
-    <img src="https://www.softedgedevelopment.com/assets/portfolio-preview.png" alt="Brock Altug Portfolio" width="800"/>
+    <img src="[https://www.softedgedevelopment.com/assets/portfolio-preview.png](https://drive.google.com/file/d/102ihRrrtrCIzNeREvF7PueE8fcQwFyfv/view?usp=sharing)" alt="Brock Altug Portfolio" width="800"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="View Portfolio"/>
   </a>
 </p>
----
+
 
 
 # Skills & Tools
