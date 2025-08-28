@@ -116,8 +116,6 @@
 ![Brock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=merko)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=merko)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=brockaltug&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## How to Reach Me
