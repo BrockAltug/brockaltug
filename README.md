@@ -129,8 +129,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=merko" alt="Brock's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=merko" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=merko" alt="Brock's GitHub Stats" />
 </p>
 
 <div align="center">
