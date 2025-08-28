@@ -135,7 +135,7 @@
 
 ## How to Reach Me
 
-altugba99@gmail.com
+[![Email](https://img.shields.io/badge/altugba99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brockaltug)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@softedgedev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
