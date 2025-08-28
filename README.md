@@ -133,9 +133,13 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=merko)
 </div>
 ---
-<p align="center">
-## How to Reach Me
-</p>
+
+<div align="center">
+
+## How to Reach Me  
+
+</div>
+
 <p align="center">
   <a href="mailto:altugba99@gmail.com">
     <img src="https://img.shields.io/badge/altugba99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
