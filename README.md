@@ -135,14 +135,36 @@
 
 ## How to Reach Me
 
-[![Email](https://img.shields.io/badge/altugba99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brockaltug)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@softedgedev)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)  
-[![Twitter](https://img.shields.io/badge/Twitter(X)-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/softedgedev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brock-altug)  
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://www.softedgedevelopment.com)  
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://www.softedgedevelopment.com/brock-altug)
+<p align="center">
+  <a href="mailto:altugba99@gmail.com">
+    <img src="https://img.shields.io/badge/altugba99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/brockaltug">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/@softedgedev">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://instagram.com/softedgedev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/softedgedev">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=flat&logo=x&logoColor=white" alt="Twitter (X)"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brock-altug">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.softedgedevelopment.com">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.softedgedevelopment.com/brockaltug">
+    <img src="https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 ---
 
