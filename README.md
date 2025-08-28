@@ -19,8 +19,8 @@
   </a>
 </p>
 
+<div align="center">
 
-<p align="center">
 # Skills & Tools
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -124,17 +124,18 @@
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat)](https://www.blender.org/)
 [![Tiled](https://img.shields.io/badge/Tiled-1DACE8?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIGZpbGw9IiMxREFDRTgiIHJ4PSI0Ii8+PHBhdGggZD0iTTIwLjA1IDY5Ljg3VjMwLjE3TDMwLjM0IDIwLjQzSDY5LjY0TDc5LjkyIDMwLjE3Vjc1Ljk3SDQ5LjczTDQwLjI0IDg1LjY0SDIwLjA1TDIwLjA1IDY5Ljg3WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMjAuMDUgMzAuMTdWMjAuNDNMMzAuMzQgMjAuNDNWMzAuMTdIMjAuMDVaTTIwLjA1IDU5LjYwVjY5Ljg3TDMwLjM0IDU5LjYwSDEyMC4wNUwyMCA2Ljk4NyIvPjwvc3ZnPg==&logoColor=white&style=flat)](https://www.mapeditor.org/)
 [![FL Studio](https://img.shields.io/badge/FL%20Studio-F48120?logo=flstudio&logoColor=white&style=flat)](https://www.image-line.com/)
-</p>
+</div>
 
 ---
-<p align="center">
+
+<div align="center">
 ![Brock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brockaltug&show_icons=true&theme=merko)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brockaltug&layout=compact&theme=merko)
-</p>
+</div>
 ---
-
+<p align="center">
 ## How to Reach Me
-
+</p>
 <p align="center">
   <a href="mailto:altugba99@gmail.com">
     <img src="https://img.shields.io/badge/altugba99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
