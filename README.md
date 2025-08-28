@@ -2,8 +2,17 @@
 
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://www.softedgedevelopment.com/brockaltug)
+<p align="center">
+  <a href="https://www.softedgedevelopment.com/brockaltug" target="_blank">
+    <img src="https://www.softedgedevelopment.com/assets/portfolio-preview.png" alt="Brock Altug Portfolio" width="800"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://www.softedgedevelopment.com/brockaltug" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="View Portfolio"/>
+  </a>
+</p>
 ---
 
 
@@ -75,6 +84,18 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)](https://firebase.google.com/)
 [![NoSQL](https://img.shields.io/badge/NoSQL-47A248?logo=nosql&logoColor=white&style=flat)](https://www.mongodb.com/nosql-explained)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)](https://www.tensorflow.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)](https://pytorch.org/)  
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)](https://scikit-learn.org/)  
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat)](https://keras.io/)  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)](https://pandas.pydata.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)](https://numpy.org/)  
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)](https://jupyter.org/)  
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat)](https://openai.com/)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat)](https://huggingface.co/)  
+[![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white&style=flat)](https://www.langchain.com/)  
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=flat)](https://mlflow.org/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat)](https://fastapi.tiangolo.com/)  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)](https://github.com/features/actions)
@@ -120,7 +141,7 @@
 
 ## How to Reach Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:altugba99@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brockaltug)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@softedgedev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/softedgedev)
