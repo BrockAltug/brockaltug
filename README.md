@@ -180,12 +180,8 @@
 
 <div align="center">
 
-  ### 🐍 My Contributions Snake
 
-  ![GitHub Snake Light](https://raw.githubusercontent.com/BrockAltug/BrockAltug/output/github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake Dark](https://raw.githubusercontent.com/BrockAltug/BrockAltug/output/github-snake-dark.svg#gh-dark-mode-only)
-
-  ![GitHub Snake GIF](https://raw.githubusercontent.com/BrockAltug/BrockAltug/output/ocean.gif)
+  ![Custom Snake](https://raw.githubusercontent.com/BrockAltug/BrockAltug/output/custom-snake.svg)
 
 </div>
 
