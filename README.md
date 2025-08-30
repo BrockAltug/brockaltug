@@ -178,3 +178,13 @@
 <div align="center">
 Feel free to connect with me if you have any questions or want to collaborate on exciting projects!
 </div>
+
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/brockaltug/brockaltug/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/brockaltug/brockaltug/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=brockaltug">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/brockaltug?style=flat&label=Stars&color=%23e3b341">
+</p>
