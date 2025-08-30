@@ -4,6 +4,11 @@
 
 **`Full Stack Developer | Automation Tester | AI Enthusiast`**
 
+<p align="center">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=brockaltug">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/brockaltug?style=flat&label=Stars&color=%23e3b341">
+</p>
+
 </div>
 
 
