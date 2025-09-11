@@ -13,13 +13,13 @@
 
 
 <p align="center">
-  <a href="https://www.softedgedevelopment.com/brockaltug" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=102ihRrrtrCIzNeREvF7PueE8fcQwFyfv" alt="Brock Altug Portfolio" width="800"/>
+  <a href="https://brockaltug.netlify.app" target="_blank">
+    <img src="[https://drive.google.com/uc?export=view&id=102ihRrrtrCIzNeREvF7PueE8fcQwFyfv](https://drive.google.com/file/d/12NlIz_FP7mM8lVs0sd-JKXPcRh8CODlo/view?usp=sharing)" alt="Brock Altug Portfolio" width="800"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.softedgedevelopment.com/brockaltug" target="_blank">
+  <a href="https://brockaltug.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="View Portfolio"/>
   </a>
 </p>
@@ -167,13 +167,13 @@
   <a href="https://www.linkedin.com/in/brock-altug">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.softedgedevelopment.com/brockaltug">
+  <a href="https://www.softedgedevelopment.com">
     <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.softedgedevelopment.com/brockaltug">
+  <a href="https://brockaltug.netlify.app">
     <img src="https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
