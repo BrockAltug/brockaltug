@@ -14,9 +14,10 @@
 
 <p align="center">
   <a href="https://brockaltug.netlify.app" target="_blank">
-    <img src="[[[https://drive.google.com/uc?export=view&id=102ihRrrtrCIzNeREvF7PueE8fcQwFyfv](https://drive.google.com/file/d/12NlIz_FP7mM8lVs0sd-JKXPcRh8CODlo/view?usp=sharing)](https://drive.google.com/file/d/12NlIz_FP7mM8lVs0sd-JKXPcRh8CODlo/view?usp=sharing)](https://drive.google.com/file/d/12NlIz_FP7mM8lVs0sd-JKXPcRh8CODlo/view?usp=sharing)" alt="Brock Altug Portfolio" width="800"/>
+    <img src="https://drive.google.com/uc?export=view&id=12NlIz_FP7mM8lVs0sd-JKXPcRh8CODlo" alt="Brock Altug Portfolio" width="800"/>
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://brockaltug.netlify.app" target="_blank">
