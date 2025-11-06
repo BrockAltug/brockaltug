@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Ocean Snake
 
 on:
   schedule:
@@ -9,17 +9,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Files
+      - name: Generate Ocean-Themed Snake
         uses: Platane/snk@v3
         with:
           github_user_name: BrockAltug
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/custom-snake.svg?color_snake=#ff7f27&color_dots=#39ff14,#9d4edd,#7b2cbf,#ff7f27,#ffb347
+            dist/ocean-snake.gif?color_snake=#ffe347&color_dots=#a8e6ff,#6fd3f5,#4fb9e8,#3ca9e3,#2b8ed6
+            dist/ocean-snake.svg?color_snake=#ffd60a&color_dots=#b9f3ff,#8de1ff,#64c3ff,#46a8ff,#2a9df4
 
-      - name: Push to output branch
+      - name: Push Ocean Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
