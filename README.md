@@ -168,12 +168,9 @@
   </a>
 </p>
 
-<div align="center">
-
-
-  ![Custom Snake](https://raw.githubusercontent.com/BrockAltug/BrockAltug/output/custom-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrockAltug/BrockAltug/output/github-snake.svg" />
+</p>
 
 ---
 
