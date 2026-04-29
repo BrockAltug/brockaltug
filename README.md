@@ -156,15 +156,7 @@
   <a href="https://github.com/brockaltug">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://medium.com/@softedgedev">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://instagram.com/softedgedev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/softedgedev">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=flat&logo=x&logoColor=white" alt="Twitter (X)"/>
-  </a>
+ 
   <a href="https://www.linkedin.com/in/brock-altug">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
